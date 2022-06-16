@@ -7,6 +7,7 @@
  * guarantee it works.
  */
 #include "tomcrypt.h"
+#include "tomcrypt_pk.h"
 
 #ifdef LTC_DER
 static const oid_st rsa_oid = {
