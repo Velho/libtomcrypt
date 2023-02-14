@@ -7,6 +7,7 @@
 #include <time.h>
 #include <ctype.h>
 #include <limits.h>
+#include <stddef.h>
 
 /* use configuration data */
 #include <tomcrypt_custom.h>
